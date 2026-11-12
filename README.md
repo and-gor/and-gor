@@ -10,6 +10,23 @@
   <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JS" width="48" />
 </div>
 
+## My projects:
+
+<ul>
+  <li>
+    <a href="https://github.com/and-gor/ono-tebe-nado-fd">Проект: "Оно тебе надо"</a>
+  </li>
+  <li>
+    <a href="https://github.com/and-gor/posmotri-v-okno-fd">Проект: "Посмотри в окно"</a>
+  </li>
+  <li>
+    <a href="https://github.com/and-gor/slozhno-sosredotochitsya-fd">Проект: "Сложно сосредоточиться"</a>
+  </li>
+  <li>
+    <a href="https://github.com/and-gor/zakrivayuschiy-teg-f">Проект: "Закрывающий тег"</a>
+  </li>
+</ul>
+
 
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
