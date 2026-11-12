@@ -4,6 +4,11 @@
 
 ## me ⬆️
 
+## my stack
+- ![HTML](https://www.svgrepo.com/show/452228/html-5.svg)
+- ![CSS](https://www.svgrepo.com/show/452185/css-3.svg)
+- ![JS](https://www.svgrepo.com/show/452045/js.svg)
+
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
