@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 ![me)](https://avatars.githubusercontent.com/u/259142656)
 
-# me ⬆️
+##me ⬆️
 
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
