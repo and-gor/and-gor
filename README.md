@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Alt text]([https://example.com/path/to/image.png](https://avatars.githubusercontent.com/u/259142656))
+
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
