@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Alt text](https://avatars.githubusercontent.com/u/259142656)
+![me)](https://avatars.githubusercontent.com/u/259142656)
+
+# me ⬆️
 
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
