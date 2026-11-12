@@ -1,10 +1,8 @@
-# Hi there 👋
+<h1 style="border-bottom: none;">Hi there 👋</h1>
 
-![me)](https://avatars.githubusercontent.com/u/259142656)
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" width="256" />
 
-## me ⬆️
-
-## my stack
+<h2 style="border-bottom: none;">my stack</h2>
 
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" width="48" />
