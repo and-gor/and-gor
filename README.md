@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://avatars.githubusercontent.com/u/259142656" alt="Me" width="256" />
+<img src="https://i.pinimg.com/736x/4a/99/cf/4a99cf6ca27cf37d03bfc21f37204488.jpg" alt="Me" width="256" />
 
 ## My stack:
 
