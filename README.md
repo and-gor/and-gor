@@ -4,29 +4,16 @@
 
 ## My stack:
 
-<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML" width="48" />
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS" width="48" />
-  <img src="https://www.svgrepo.com/show/452045/js.svg" alt="JS" width="48" />
-</div>
+- HTML
+- CSS
+- JS
 
 ## My projects:
 
-<ul>
-  <li>
-    <a href="https://github.com/and-gor/ono-tebe-nado-fd">Проект: "Оно тебе надо"</a>
-  </li>
-  <li>
-    <a href="https://github.com/and-gor/posmotri-v-okno-fd">Проект: "Посмотри в окно"</a>
-  </li>
-  <li>
-    <a href="https://github.com/and-gor/slozhno-sosredotochitsya-fd">Проект: "Сложно сосредоточиться"</a>
-  </li>
-  <li>
-    <a href="https://github.com/and-gor/zakrivayuschiy-teg-f">Проект: "Закрывающий тег"</a>
-  </li>
-</ul>
-
+- [https://github.com/and-gor/ono-tebe-nado-fd](Проект: "Оно тебе надо")
+- [https://github.com/and-gor/posmotri-v-okno-fd](Проект: "Посмотри в окно")
+- [https://github.com/and-gor/slozhno-sosredotochitsya-fd](Проект: "Сложно сосредоточиться")
+- [https://github.com/and-gor/zakrivayuschiy-teg-f](Проект: "Закрывающий тег")
 
 <!--
 **and-gor/and-gor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
